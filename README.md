@@ -1,3 +1,5 @@
+![Netflix Clone](https://github.com/Souraevshing/netflix-clone-nextjs-app/blob/main/netflix-clone-app.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
